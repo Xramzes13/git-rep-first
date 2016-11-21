@@ -1,4 +1,5 @@
 print('Hello world!');
 print('Hello!');
 
-Print('add hello:)')
+Print('add hello:)');
+print('hello my dear friends');
